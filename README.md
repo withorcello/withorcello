@@ -4,7 +4,7 @@
 ![Withor Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=withorcello&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
-  <a href="https://www.google.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsfkgfwqhrgLjRJbCtHCSxkHdnxhGQBcXBVqcHfzJSVBgsNhRMrCJGwKFpwwrJbwMrcdl" >
     <img alt="teste" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a src="">
