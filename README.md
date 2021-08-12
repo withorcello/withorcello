@@ -1,16 +1,18 @@
-### Hi there 👋
+  Hello!! :wave:
+  My name is Withor Lucas, i've been developing for just under a year, I'm at the beginning of a great journey in search of knowledge, as Einstein said "Remember     that people can take everything from you but your knowledge."
+  
+![Withor Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=withorcello&show_icons=true&theme=tokyonight)
 
-<!--
-**withorcello/withorcello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <a href="google.com" target="_blank">
+    <img alt="teste" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a src="">
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a src="">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
