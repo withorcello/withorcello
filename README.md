@@ -1,18 +1,40 @@
-  Hello!! :wave:
-  My name is Withor Lucas, i've been developing for just under a year, I'm at the beginning of a great journey in search of knowledge, as Einstein said "Remember     that people can take everything from you but your knowledge."
-  
-![Withor Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=withorcello&show_icons=true&theme=tokyonight)
+Hello!! :wave:
+Me chamo <b>Withor</b>, sou fanático em aprender e repassar conhecimento, procuro sempre dar meu máximo em tudo que faço para que eu sempre aprenda algo novo. "Não se rompe a barreira sem antes chegar nela."👨‍💻
+</br>
 
-<div style="display: inline_block"><br>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsfkgfwqhrgLjRJbCtHCSxkHdnxhGQBcXBVqcHfzJSVBgsNhRMrCJGwKFpwwrJbwMrcdl" >
-    <img alt="teste" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a src="">
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a src="https://discord.com/withor.dev#3561">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+<b>Atualmente tenho trabalhado principalmente com as seguintes tecnologias:</b>
+
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+</a>
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+</a>
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" href="youtube.com"/>
+</a>
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</a>
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+</a>
+<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+</a>
+
+</br></br>
+<div>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:contato@seu-usuário-aqui">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
 </div>
-
-##
