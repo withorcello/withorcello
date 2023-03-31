@@ -3,28 +3,33 @@ Me chamo <b>Withor</b>, sou fanático em aprender e repassar conhecimento, procu
 </br>
 
 <b>Atualmente tenho trabalhado principalmente com as seguintes tecnologias:</b>
+<div>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=vue&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=vue&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+  </a>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" href="youtube.com"/>
+  </a>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  </a>
+  <a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  </a>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+</div>
+          
+          
 
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=vue&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-</a>
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=vue&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
-</a>
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=javascript&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" href="youtube.com"/>
-</a>
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</a>
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</a>
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-</a>
-<a href="https://github.com/withorcello?tab=repositories&q=&type=&language=typescript&sort=">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-</a>
 
 </br></br>
 <div>
